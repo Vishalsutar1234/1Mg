@@ -12,11 +12,12 @@
 6. MongoDB
 
 #### Project was contributed by - 
-1. Vishwesh   - SignUp & Login
-2. Prasad     - HomePage & Backend Server
-3. Anish      - Product page
-4. Gautam     - Cart page
-5. Tushar     - Payment page
+1. Vishal sutar
+  - SignUp & Login
+  - HomePage & Backend Server
+  - Product page
+  -  Cart page
+  -  Payment page
 
 #### Site Flow
 1. Home Page - 
